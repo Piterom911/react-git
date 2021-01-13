@@ -10,6 +10,7 @@ const Profile = props => {
                 <li>Some text 3</li>
                 <li>Some text 4</li>
                 <li>Some text 5</li>
+                <li>Some text 6</li>
             </ul>
         </div>
     )
